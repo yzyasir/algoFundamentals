@@ -17,3 +17,4 @@ var fave_food2 = "pizza"
 console.log( ) // DO THIS with .format()  
 console.log(`I love to eat ${fave_food1} and ${fave_food2}`) // with an f string or (template literals aka template strings)
 
+// This is just to test how as to how you can use strings in console log
